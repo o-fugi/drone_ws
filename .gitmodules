@@ -1,0 +1,3 @@
+[submodule "src/rosflight"]
+	path = src/rosflight
+	url = git@github.com:rosflight/rosflight.git
